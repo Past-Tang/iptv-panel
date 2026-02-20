@@ -1,0 +1,22 @@
+{
+	/*温馨提示
+	uni-app为了调试性能的原因，修改easycom规则不会实时生效，配置完后，您需要重启HX或者重新编译项目才能正常使用uView的功能。
+	请确保您的pages.json中只有一个easycom字段，否则请自行合并多个引入规则。*/
+	"easycom": {
+		"^u-(.*)": "uview-ui/components/u-$1/u-$1.vue"
+	},
+	"pages": [ //pages数组中第一项表示应用启动页，参考：https://uniapp.dcloud.io/collocation/pages
+		{
+			"path": "pages/index/index",
+			"style": {
+				"navigationStyle": "custom"
+			}
+			
+		}
+	],
+	
+	"globalStyle": {
+		
+	},
+	"uniIdRouter": {}
+}

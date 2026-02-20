@@ -1,0 +1,21 @@
+{
+    "dependencies": {
+        "uview-ui": "^1.8.4"
+    },
+    "id": "liu-uView-template",
+    "displayName": "uView-template 基础版",
+    "version": "1.0.0",
+    "description": "融合uView UI框架，已封装http网络请求，并封装公共常用校验及方法，可快速搭建项目",
+    "keywords": [
+        "uView",
+        "，uni.request",
+        "，api列表",
+        "，http"
+    ],
+    "dcloudext": {
+        "category": [
+            "uni-app前端模板",
+            "前端页面模板"
+        ]
+    }
+}
