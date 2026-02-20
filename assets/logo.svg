@@ -1,20 +1,18 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 200" fill="none">
-  <rect width="680" height="200" rx="16" fill="#0d1117"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 180" fill="none">
+  <rect width="680" height="180" rx="16" fill="#0d1117"/>
   <defs><pattern id="g" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0L0 0 0 40" fill="none" stroke="#161b22" stroke-width="1"/></pattern></defs>
-  <rect width="680" height="200" fill="url(#g)"/>
-  <g transform="translate(40,40)">
-    <rect width="120" height="120" rx="16" fill="#1a2332" stroke="#42b883" stroke-width="2.5"/>
-    <rect x="20" y="25" width="80" height="50" rx="4" fill="none" stroke="#42b883" stroke-width="2" opacity="0.6"/>
-    <path d="M35 42 L50 52 L35 62Z" fill="#42b883" opacity="0.5"/>
-    <rect x="20" y="82" width="80" height="20" rx="4" fill="none" stroke="#42b883" stroke-width="1.5" opacity="0.4"/>
-    <circle cx="35" cy="92" r="4" fill="#f85149" opacity="0.5"/>
-    <circle cx="50" cy="92" r="4" fill="#3fb950" opacity="0.5"/>
-    <rect x="60" y="89" width="30" height="6" rx="3" fill="#42b883" opacity="0.3"/>
+  <rect width="680" height="180" fill="url(#g)"/>
+  <g transform="translate(30,50)">
+    <rect width="80" height="80" rx="14" fill="#1a2332" stroke="#42b883" stroke-width="2"/>
+    <rect x="12" y="14" width="56" height="34" rx="3" fill="none" stroke="#42b883" stroke-width="1.5" opacity="0.6"/>
+    <path d="M24 26 L34 32 L24 38Z" fill="#42b883" opacity="0.5"/>
+    <rect x="12" y="54" width="56" height="14" rx="3" fill="none" stroke="#42b883" stroke-width="1" opacity="0.4"/>
+    <circle cx="22" cy="61" r="3" fill="#f85149" opacity="0.5"/>
+    <circle cx="32" cy="61" r="3" fill="#3fb950" opacity="0.5"/>
   </g>
-  <text x="195" y="72" font-family="'Segoe UI',system-ui,sans-serif" font-size="46" fill="#e6edf3" font-weight="700" letter-spacing="-1">IPTV Panel</text>
-  <text x="195" y="118" font-family="'Segoe UI',system-ui,sans-serif" font-size="46" fill="#42b883" font-weight="700" letter-spacing="-1">Controller</text>
-  <text x="197" y="148" font-family="'Segoe UI',system-ui,sans-serif" font-size="14" fill="#7d8590">IPTV &#x63A8;&#x6D41;&#x63A7;&#x5236;&#x9762;&#x677F; | uni-app | &#x524D;&#x540E;&#x7AEF;&#x5206;&#x79BB;</text>
-  <g transform="translate(197,162)">
+  <text x="135" y="76" font-family="'Segoe UI',system-ui,sans-serif" font-size="42" fill="#e6edf3" font-weight="700" letter-spacing="-1">IPTV Panel Controller</text>
+  <text x="137" y="104" font-family="'Segoe UI',system-ui,sans-serif" font-size="14" fill="#7d8590">IPTV &#x63A8;&#x6D41;&#x63A7;&#x5236;&#x9762;&#x677F; | uni-app | Vue.js</text>
+  <g transform="translate(137,116)">
     <rect width="72" height="22" rx="11" fill="#1a2332" stroke="#42b883" stroke-width="1"/>
     <text x="36" y="15" font-family="monospace" font-size="10" fill="#42b883" text-anchor="middle">uni-app</text>
     <rect x="82" width="66" height="22" rx="11" fill="#1a2332" stroke="#58a6ff" stroke-width="1"/>
